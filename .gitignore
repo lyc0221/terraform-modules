@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.python-version
+
+.terraform/
+terraform.tfstate*
+terraform.plan
+_*.tf.json
+secrets.libsonnet
+secrets.tfvars
+backend.tf
